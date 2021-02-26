@@ -2,7 +2,7 @@
 
 🔭 I’m currently on a Avannade Bootcamp on Digital innovation One
 
-🌱 Just a Junior Full Stacker Seed about to grow as a strong tree
+🌱 I am a Junior Full Stacker Seed about to grow as a strong tree
 
 💬 Ask me about anything related
 
@@ -11,4 +11,4 @@
 
 😄 Hope you like
 
-⚡ Looking for a Job to be able to grown even more faster
+⚡ OPEN TO WORK
