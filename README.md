@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :woman_technologist:
 
 🔭 I’m currently on a Avannade Bootcamp on Digital innovation One
 
