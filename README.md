@@ -12,3 +12,7 @@
 😄 Hope you like
 
 ⚡ OPEN TO WORK
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=limatainer&theme=radical)](https://github.com/iuricode/)
+
