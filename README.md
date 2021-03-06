@@ -1,20 +1,21 @@
 ### Hi there :woman_technologist:
 
-🔭 I’m currently on a Avannade Bootcamp on Digital innovation One
-
 🌱 I am a Junior Full Stacker Seed about to grow as a strong tree
-
-💬 Ask me about anything related
-
-📫 You can find me here https://www.linkedin.com/in/marianacousseiro/
-
-
+⚡ OPEN TO WORK
+💬 Ask me about anything
+📫 You can find me here
+<p align="left">
+  ⤵️
+</p>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=limatainer@gmail.com" /></a>
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianacousseiro/" /></a>
+  
 😄 Hope you like
 
-⚡ OPEN TO WORK
-
-
-[![card](https://github-readme-stats.vercel.app/api?username=limatainer&theme=radical)](https://github.com/iuricode/) || [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=limatainer&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=limatainer&theme=radical)](https://github.com/iuricode/) => [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=limatainer&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
