@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador limatainer">
 
 🌱 I am a Junior Full Stacker Seed about to grow as a strong tree
+
 ⚡ OPEN TO WORK
 
 💬 Ask me about anything
