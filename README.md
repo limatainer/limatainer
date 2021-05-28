@@ -4,7 +4,7 @@
 
 🌱 I am a Junior Full Stacker Seed about to grow as a strong tree
 
-⚡ OPEN TO WORK
+⚡ OPEN TO COLAB
 
 💬 Ask me about anything
 📫 You can find me here
