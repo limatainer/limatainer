@@ -4,7 +4,7 @@
 
 🌱 I am a Junior Full Stacker Seed about to grow as a strong tree
 
-🤖 You can find here Data Science projects too for Machine Learning projects
+🤖 I will also commit some Machine Learning projects
 
 ⚡ OPEN TO COLAB
 💬 Ask me a question
