@@ -7,6 +7,7 @@
 ⚡ OPEN TO COLAB
 
 💬 Ask me a question
+</br>
 📫 You can find me here
 <p align="left">
   <a href="limatainer@gmail.com" alt="Gmail">
@@ -16,9 +17,9 @@
   
 😄 Please make shure to fork and star before you clone a repo
 
-[![card](https://github-readme-stats.vercel.app/api?username=limatainer&theme=radical)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=limatainer&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=limatainer&theme=radical)](https://github.com/limatainer/) [![limatainer](https://github-readme-stats.vercel.app/api/top-langs/?username=limatainer&hide=html&layout=compact&theme=tokyonight)](https://github.com/limatainer/)
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 **Frameworks**
   <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
