@@ -17,7 +17,9 @@
   
 😄 Please make shure to fork and star before you clone a repo
 
-[![card](https://github-readme-stats.vercel.app/api?username=limatainer&theme=radical)](https://github.com/limatainer/) [![limatainer](https://github-readme-stats.vercel.app/api/top-langs/?username=limatainer&hide=html&layout=compact&theme=tokyonight)](https://github.com/limatainer/)
+[![card](https://github-readme-stats.vercel.app/api?username=limatainer&theme=radical)](https://github.com/limatainer/) 
+</br>
+[![limatainer](https://github-readme-stats.vercel.app/api/top-langs/?username=limatainer&hide=html&layout=compact&theme=tokyonight)](https://github.com/limatainer/)
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
@@ -47,7 +49,7 @@
 **Tools**
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Tensor]()
+  
 </br>
 **Gits**
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
