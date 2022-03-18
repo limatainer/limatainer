@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador limatainer">
 
-🌱 I am a Junior Full Stacker Seed about to grow as a strong tree
+🌱 Welcome to my github :punch: 
+### I'm Mariana, a Full Stack developer seed about to grow as a strong tree
 
 🤖 I will also commit some Machine Learning projects
 </br>
