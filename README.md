@@ -4,10 +4,13 @@
 
 🌱 Welcome to my github :punch: 
 ### I'm Mariana, a Full Stack developer seed about to grow as a strong tree
+#### Please visit my personal web page too and fell free to clone it too
+<a href="https://limatainer.vercel.app/" alt="personal web page"/><p>Go here</p></a>
 
 🤖 I will also commit some Machine Learning projects
 </br>
 ⚡ OPEN TO COLAB
+</br>
 💬 Ask me a question
 </br>
 📫 You can find me here
