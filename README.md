@@ -4,7 +4,7 @@
 
 🌱 Welcome to my github :punch: 
 ### I'm Mariana, a Full Stack developer seed about to grow as a strong tree
-#### Please visit my personal web page too and fell free to clone it too
+#### Please visit my personal web page and feel free to clone it too
 <a href="https://limatainer.vercel.app/" alt="personal web page"/><p>Go here</p></a>
 
 🤖 I will also commit some Machine Learning projects
