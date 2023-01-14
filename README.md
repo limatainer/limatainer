@@ -22,9 +22,5 @@
   
 😄 Please make shure to fork and star before you clone a repo
 
-[![card](https://github-readme-stats.vercel.app/api?username=limatainer&theme=radical)](https://github.com/limatainer/) 
-</br>
-</br>
-[![limatainer](https://github-readme-stats.vercel.app/api/top-langs/?username=limatainer&hide=html&layout=compact&theme=tokyonight)](https://github.com/limatainer/)
 
 <h3> :rocket: &nbsp;My Skills </h3>
