@@ -36,7 +36,7 @@ I’m Mariana, a Developer working with frontend and AI API integrations. Always
 
 ---
 
-#### 🌟 **Open to Collaboration and New Opportunities** 🌟
+#### 🌟 **Open to Collaborations** 🌟
 
 Feel free to clone my personal web page and let's connect, share some thoughts, and navigate the tech sea together! 😊
 
