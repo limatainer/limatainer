@@ -30,8 +30,8 @@ I’m Mariana, a Developer working with frontend and AI API integrations. Always
 ---
 
 ### Let's Connect:
-- 🌐 Personal Landing Page: [lima-theta.vercel.app](https://lima-theta.vercel.app/)
-- 📧 Email: [sven.heimann891@carpkingdom.com](mailto:sven.heimann891@carpkingdom.com)
+- 🌐 Personal Landing Page: [Landing](https://my-landing-theta.vercel.app)
+- 📧 Email: [Lima](mailto:sven.heimann891@carpkingdom.com)
 - 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/marianacousseiro/)
 
 ---
