@@ -8,7 +8,7 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=limatainer.limatainer)
 
-I'm Mariana, a Developer specializing in frontend development and AI API integrations. Building modern experiences with NextJS, Vite, React, TypeScript, NodeJS, and Firebase while mentoring the next generation of developers.
+I'm Mariana, a Software engineer and senior project manager specializing in web applications development. Building modern experiences with NextJS, Vite, React, TypeScript, NodeJS, and Firebase while mentoring the next generation of developers.
 
 > 🔒 **Note:** Current projects are under review and set to private until 2026. New exciting projects launching soon!
 
