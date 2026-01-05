@@ -4,13 +4,13 @@
 
 ### 👩🏻‍💻 Welcome to My Digital Garden
 
-🌱 A Full Stack Developer Seed Growing into a Strong Tech Tree 🌳
+🌱 A Tech Seed Growing into a Strong Tech Tree 🌳
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=limatainer.limatainer)
 
-I'm Mariana, a Software engineer and senior project manager specializing in web applications development. Building modern experiences with NextJS, Vite, React, TypeScript, NodeJS, and Firebase while mentoring the next generation of developers.
+I'm Mariana, a Software Engineer and senior Project manager specialized in web applications development. Building modern experiences with NextJS, Vite, React, TypeScript, NodeJS, and GCP or Azure, while mentoring the next generation of developers.
 
-> 🔒 **Note:** Current projects are under review and set to private until 2026. New exciting projects launching soon!
+> 🔒 **Note:** Current projects are under review and set to private until Feb 2026. New exciting projects launching soon!
 
 ---
 
