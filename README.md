@@ -10,7 +10,7 @@
 
 I'm Mariana, a Software Engineer and senior Project manager specialized in web applications development. Building modern experiences with NextJS, Vite, React, TypeScript, NodeJS, and GCP or Azure, while mentoring the next generation of developers.
 
-> 🔒 **Note:** Current projects are under review and set to private until Feb 2026. New exciting projects launching soon!
+> 🔒 **Note:** Current projects are under review and set to private until mid 2026. New exciting projects launching soon!
 
 ---
 
