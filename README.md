@@ -60,8 +60,8 @@ I'm Mariana, a Software Engineer and senior Project manager specialized in web a
 
 I'm open to collaborations in **technical development**, **project management**, and **mentoring opportunities**.
 
-- 🌐 **Landing Page:** [Landing](https://limascode.vercel.app/))
-- 🌐 **Mentorship Page:** [my-landing-theta.vercel.app](https://my-landing-theta.vercel.app)
+- 🌐 **Landing Page:** [Landing](https://limascode.vercel.app/)
+- 🌐 **Mentorship Page:** [Tech Mentor](https://mentortechlima.vercel.app)
 - 📧 **Email:** [sven.heimann891@carpkingdom.com](mailto:sven.heimann891@carpkingdom.com)
 - 💼 **LinkedIn:** [marianacousseiro](https://www.linkedin.com/in/marianacousseiro/)
 - ✍️ **Dev.to:** Technical articles & tutorials
